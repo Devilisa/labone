@@ -1,4 +1,4 @@
-with open(r'C:\Users\HOME\Desktop\steam_description_data.csv', encoding='utf-8') as f:
+with open(r'C:\Users\HOME\Desktop\labone\steam_description_data.csv', encoding='utf-8') as f:
     k = 0
     s = ''
     for i in f:
